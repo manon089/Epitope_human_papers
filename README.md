@@ -1,2 +1,2 @@
-# Epitope_human_papers
+# Epitope_human_publications
 publications
